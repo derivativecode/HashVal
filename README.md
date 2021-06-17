@@ -17,5 +17,13 @@ Built using:
 - **SWT** - [Standard Widget Toolkit](https://git.eclipse.org/c/platform/eclipse.platform.swt.git/)
 
 
+## Usage
+- run the JAR-File from your terminal using
+```bash
+java -jar HashVal_V0.2.jar
+```
+- built / configure / change it yourself, using an IDE of your choice (like, but probably not *Eclipse*)
+
+
 ## Credits
 - Thanks to **Ammianus** for his [Collapsible Text Area Snippet](https://librixxxi.blogspot.com/2011/04/collapsible-swt-text-area-snippet.html)
